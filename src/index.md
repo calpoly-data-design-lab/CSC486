@@ -34,11 +34,11 @@
 .hero {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
   font-family: var(--sans-serif);
-  margin: 4rem 0 8rem;
+  margin: 0 0 2rem;
   text-wrap: balance;
-  text-align: center;
+  text-align: left;
 }
 
 .hero h1 {
