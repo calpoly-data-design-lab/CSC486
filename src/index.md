@@ -4,18 +4,6 @@
   <h2>Welcome to the Winter 2026 course website for Cal Poly CSC 486: Human-Comuter Interaction.</h2>
 </div>
 
-<div class="warning">
-  Site under construction, inforamtion may be incomplete.
-</div>
-
-## Recent Announcements
-
-<div class="grid grid-cols-4">
-  <div class="card">
-    No announcements yet
-  </div>
-</div>
-
 ## Info and Important Links
 
 - Use the sidebar links to read the [syllabus](syllabus) and [course schedule](schedule) (*check this frequenty!*)
@@ -24,10 +12,9 @@
   - Lab: MWF 4:10PM - 5:00PM, 014-232B
 - Instructor: [Austin P. Wright](https://www.austinpwright.com)
 - Email: <awrigh20@calpoly.edu>
-- Office Hours: TBD, and By [Appointment](https://calendly.com/awrigh20-calpoly/30min)
+- Office Hours: 14-222, TWR, 1pm-2pm (or by [Appointment](https://calendly.com/awrigh20-calpoly/30min))
 - [Canvas](https://canvas.calpoly.edu/courses/175616)
-- Gradescope
-- Edstem Forum
+- [Gradescope](https://www.gradescope.com/courses/1208329)
 
 <style>
 

@@ -15,6 +15,10 @@ export default {
       name: "Course Schedule",
       path: "/schedule",
     },
+    {
+      name: "Final Project",
+      path: "/Project/Overview",
+    },
   ],
 
   // Content to add to the head of the page, e.g. for a favicon:
