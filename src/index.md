@@ -13,7 +13,6 @@
 - Instructor: [Austin P. Wright](https://www.austinpwright.com)
 - Email: <awrigh20@calpoly.edu>
 - Office Hours: 14-222, TW, 1pm-3pm (or by [Appointment](https://calendly.com/awrigh20-calpoly/30min))
-- [Canvas](https://canvas.calpoly.edu/courses/175616)
 - [Gradescope](https://www.gradescope.com/courses/1208329)
 
 <style>
