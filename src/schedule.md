@@ -10,7 +10,7 @@ This is a **tentative** course schedule. I will be updating it throughout the qu
 
 </div>
 
-For lectures with slides I will endeavour to upload and link to them in the topic column after class. However, you are **highly recommended** to take your own notes as my slides are not meant to be a comprehensive study resource, and you will be responsible for all content covered in class and the readings regardless of whether it is in the slides.
+For lectures with slides I will endeavour to upload them to [this folder](https://cpslo-my.sharepoint.com/:f:/g/personal/awrigh20_calpoly_edu/IgA-QVcH36aHSogGDpWCWtSCAYWSKDfgvcfFWISm3fh3BT0?e=r43y1m) after class. However, you are **highly recommended** to take your own notes as my slides are not meant to be a comprehensive study resource, and you will be responsible for all content covered in class and the readings regardless of whether it is in the slides.
 The readings column outlines the readings or videos you are expected to complete before class. The references column will provide additional resources that can be used as reference or study material for the corresponding topic.
 
 Acronyms for book chapters:
