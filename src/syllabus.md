@@ -6,7 +6,7 @@
 - Email: <awrigh20@calpoly.edu>
 - Lecture Time and Location: MWF, 3:10PM-4:00PM, 14-232B
 - Lab Time and Location: MWF, 4:10PM-5:00PM,  14-232B
-- Office Hours: 14-222, TWR, 1pm-2pm (or by [Appointment](https://calendly.com/awrigh20-calpoly/30min))
+- Office Hours: 14-222, TW, 1pm-3pm (or by [Appointment](https://calendly.com/awrigh20-calpoly/30min))
 
 ## Learning Objectives
 
