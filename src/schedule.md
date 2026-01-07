@@ -23,7 +23,7 @@ Acronyms for book chapters:
 | ---- | ------------------ | -------------------------------------- | -------------------- | ----------------------- | -------------------------------------------------------------------------- |
 | 1    | 01/05              | Course Introduction: What is HCI?      |                      | ERP: 1<br>ID: 1         |**[A0: Intro Survey](Assignments/A0-Intro-Survey)**                         |
 |      | 01/07              | Brief History of HCI                   |                      |                         |                                                                            |
-|      | 01/09              | Research in HCI                        |                      | ID: 2                   |                                                                            |
+|      | 01/09              | Fundamentals of Human-Factors Research |                      | ID: 2                   |                                                                            |
 | 2    | 01/12              | Perception                             |                      | ERP: 2                  |                                                                            |
 |      | 01/14              | Physical Responders                    |                      |                         |                                                                            |
 |      | 01/16              | Mental Models and Affordances          | DN: 1,2, 3           |                         |**[A1: Distilling Design Implications](Assignments/A1-Design-Reqs)**        |
