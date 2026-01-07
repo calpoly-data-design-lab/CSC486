@@ -6,7 +6,7 @@ toc: false
 
 <div class="warning">
 
-This is a **tentative** course schedule. I will be updating it throughout the quarter. While I will try to make sure deadlines are consistent both here and on Canvas and Gradescope, the Canvas and Gradescope deadlines take precedence!
+This is a **tentative** course schedule. I will be updating it throughout the quarter. While I will try to make sure deadlines are consistent both here and on Gradescope, the Gradescope deadlines take precedence!
 
 </div>
 
