@@ -20,6 +20,10 @@ export default {
             path: "/Assignments/A1-Design-Reqs",
         },
         {
+            name: "Assignment 2",
+            path: "/Assignments/A2-Mini-Design",
+        },
+        {
             name: "Final Project",
             path: "/Project/Overview",
         },

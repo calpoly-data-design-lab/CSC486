@@ -32,8 +32,8 @@ Acronyms for book chapters:
 |      | 01/21              | Interaction Devices                    |                      |                         |                                                                            |
 |      | 01/23              | Natural User Interfaces                |                      | ID: 7                   |                                                                            |
 | 4    | 01/26              | Affective Computing                    |                      | ID: 5,6                 |                                                                            |
-|      | 01/28              | Ubiquitous Computing                   |                      |                         |**[A2: Mini-Design: Auditory User Interface](Assignments/A2-Mini-Design)**  |
-|      | 01/30              | Modeling Interaction                   | DN: 4, 5             | ERP: 4,5,6              |                                                                            |
+|      | 01/28              | Ubiquitous Computing                   |                      |                         |                                                                            |
+|      | 01/30              | Modeling Interaction                   | DN: 4, 5             | ERP: 4,5,6              | **[A2: Mini-Design: Auditory User Interface](Assignments/A2-Mini-Design)** |
 | 5    | 02/02              | ***MIDTERM EXAM 1***                   |                      |                         |                                                                            |
 |      | 02/04              | Research Methods and Ethics            |                      |                         |                                                                            |
 |      | 02/06              | Designing Experiments                  |                      | ERP: 7                  |**[Final Project Team and Topic Selection](Project/F0-Team-Selection)**     |
