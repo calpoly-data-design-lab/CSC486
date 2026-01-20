@@ -27,23 +27,23 @@ Acronyms for book chapters:
 | 2    | 01/12              | Perception                             |                      | ERP: 2                  |                                                                            |
 |      | 01/14              | Physical Responders                    |                      |                         |                                                                            |
 |      | 01/16              | Mental Models and Affordances          | DN: 1,2, 3           |                         |**[A1: Distilling Design Implications](Assignments/A1-Design-Reqs)**        |
-| 3    | 01/19 (Holiday)    | No Class                               |                      | ERP: 3                  |                                                                            |
-|      | 01/20 (Makeup)     | Interaction Paradigms                  |                      | ID: 3                   |                                                                            |
-|      | 01/21              | Interaction Devices                    |                      |                         |                                                                            |
-|      | 01/23              | Natural User Interfaces                |                      | ID: 7                   |                                                                            |
+| 3    | 01/19 (Holiday)    | No Class                               |                      |                         |                                                                            |
+|      | 01/20 (Makeup)     | Measuring Interaction                  |                      | ID: 3 <br> ERP: 3       |                                                                            |
+|      | 01/21              | Interaction Devices                    |                      | ERP: 4                  |                                                                            |
+|      | 01/23              | Modeling Interaction                   | DN: 4, 5             | ERP: 5,6                |                                                                            |
 | 4    | 01/26              | Affective Computing                    |                      | ID: 5,6                 |                                                                            |
-|      | 01/28              | Ubiquitous Computing                   |                      |                         |                                                                            |
-|      | 01/30              | Modeling Interaction                   | DN: 4, 5             | ERP: 4,5,6              | **[A2: Mini-Design: Auditory User Interface](Assignments/A2-Mini-Design)** |
+|      | 01/28              | Ubiquitous Computing                   |                      |                         |**[Final Project Team and Topic Selection](Project/F0-Team-Selection)**     |
+|      | 01/30              | Natural User Interfaces                | DN: 6, 7             | ID: 7                   |                                                                            |
 | 5    | 02/02              | ***MIDTERM EXAM 1***                   |                      |                         |                                                                            |
 |      | 02/04              | Research Methods and Ethics            |                      |                         |                                                                            |
-|      | 02/06              | Designing Experiments                  |                      | ERP: 7                  |**[Final Project Team and Topic Selection](Project/F0-Team-Selection)**     |
+|      | 02/06              | Designing Experiments                  |                      | ERP: 7                  |**[A2: Mini-Design: Auditory User Interface](Assignments/A2-Mini-Design)**  |
 | 6    | 02/05              | Statistical Analysis                   |                      |                         |                                                                            |
 |      | 02/07              | Qualitative Methods Overview           |                      |                         |                                                                            |
 |      | 02/09              | Coding and Qualitative Analysis        |                      |                         |**[Final Project Proposal](Project/F1-Proposal)**                           |
 | 7    | 02/16              | Holiday                                |                      |                         |                                                                            |
 |      | 02/18              | Scientific Publishing in CS/HCI        |                      |                         |                                                                            |
 |      | 02/20              | Participatory Action Research          |                      | ERP: Ch 8               |**[Final Project Lit Review](Project/F2-Lit-Review)**                       |
-| 8    | 02/23              | Computer Supported Collaborative Work  | DN: 6, 7             |                         |                                                                            |
+| 8    | 02/23              | Computer Supported Collaborative Work  |                      |                         |                                                                            |
 |      | 02/25              | Computational Social Science           |                      |                         |                                                                            |
 |      | 02/27              | Exam Review                            |                      |                         |                                                                            |
 | 9    | 03/02              | ***MIDTERM EXAM 2***                   |                      |                         |                                                                            |
