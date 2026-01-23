@@ -29,13 +29,13 @@ Acronyms for book chapters:
 |      | 01/16              | Mental Models and Affordances          | DN: 1,2, 3           |                         |**[A1: Distilling Design Implications](Assignments/A1-Design-Reqs)**        |
 | 3    | 01/19 (Holiday)    | No Class                               |                      |                         |                                                                            |
 |      | 01/20 (Makeup)     | Measuring Interaction                  |                      | ID: 3 <br> ERP: 3       |                                                                            |
-|      | 01/21              | Interaction Devices                    |                      | ERP: 4                  |                                                                            |
+|      | 01/21              | Interaction Devices                    |                      |                         |                                                                            |
 |      | 01/23              | Modeling Interaction                   | DN: 4, 5             | ERP: 5,6                |                                                                            |
 | 4    | 01/26              | Affective Computing                    |                      | ID: 5,6                 |                                                                            |
-|      | 01/28              | Ubiquitous Computing                   |                      |                         |**[Final Project Team and Topic Selection](Project/F0-Team-Selection)**     |
-|      | 01/30              | Natural User Interfaces                | DN: 6, 7             | ID: 7                   |                                                                            |
+|      | 01/28              | Ubiquitous Computing                   |                      |                         |                                                                            |
+|      | 01/30              | Natural User Interfaces                | DN: 6, 7             | ID: 7                   |**[Final Project Team and Topic Selection](Project/F0-Team-Selection)**     |
 | 5    | 02/02              | ***MIDTERM EXAM 1***                   |                      |                         |                                                                            |
-|      | 02/04              | Research Methods and Ethics            |                      |                         |                                                                            |
+|      | 02/04              | Research Methods and Ethics            |                      | ERP: 4                  |                                                                            |
 |      | 02/06              | Designing Experiments                  |                      | ERP: 7                  |**[A2: Mini-Design: Auditory User Interface](Assignments/A2-Mini-Design)**  |
 | 6    | 02/05              | Statistical Analysis                   |                      |                         |                                                                            |
 |      | 02/07              | Qualitative Methods Overview           |                      |                         |                                                                            |
