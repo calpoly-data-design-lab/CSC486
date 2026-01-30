@@ -33,7 +33,7 @@ Acronyms for book chapters:
 |      | 01/23              | Modeling Interaction                   | DN: 4, 5             | ERP:   7                |                                                                            |
 | 4    | 01/26              | Affective Computing                    |                      | ID: 5,6                 |                                                                            |
 |      | 01/28              | Ubiquitous Computing                   |                      |                         |                                                                            |
-|      | 01/30              | Accessibility                          | DN: 6, 7             |                         |**[Final Project Team and Topic Selection](Project/Overview)**     |
+|      | 01/30              | Exam Review                            | DN: 6, 7             |                         |**[Final Project Team and Topic Selection](Project/Overview)**     |
 | 5    | 02/02              | ***MIDTERM EXAM 1***                   |                      |                         |                                                                            |
 |      | 02/04              | Research Methods and Ethics            |                      | ERP: 4                  |                                                                            |
 |      | 02/06              | Designing Experiments                  |                      | ERP: 5                  |**[A2: Mini-Design: Auditory User Interface](Assignments/A2-Mini-Design)**  |
@@ -47,7 +47,7 @@ Acronyms for book chapters:
 |      | 02/25              | Computational Social Science           |                      |                         |                                                                            |
 |      | 02/27              | Exam Review                            |                      |                         |                                                                            |
 | 9    | 03/02              | ***MIDTERM EXAM 2***                   |                      |                         |                                                                            |
-|      | 03/04              | Human-Robot Interaction                |                      |                         |**[Final Project Draft Review](Project/F3-Draft-Review)**                   |
+|      | 03/04              | Accessibility                          |                      |                         |**[Final Project Draft Review](Project/F3-Draft-Review)**                   |
 |      | 03/06              | Human-AI Interaction                   |                      |                         |                                                                            |
 | 10   | 03/09              | Special Topics (Research Papers)       |                      |                         |                                                                            |
 |      | 03/11              | Special Topics (Research Papers)       |                      |                         |                                                                            |
