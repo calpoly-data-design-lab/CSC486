@@ -39,12 +39,12 @@ Acronyms for book chapters:
 |      | 02/06              | Designing Experiments                  |                      | ERP: 5                  |**[A2: Mini-Design: Auditory User Interface](Assignments/A2-Mini-Design)**  |
 | 6    | 02/05              | Statistical Analysis                   |                      | ERP: 6                  |                                                                            |
 |      | 02/07              | Qualitative Methods Overview           |                      |                         |                                                                            |
-|      | 02/09              | Coding and Qualitative Analysis        |                      |                         |**[Final Project Proposal](Project/F1-Proposal)**                           |
+|      | 02/09              | Coding and Qualitative Analysis        |                      |                         |**[Final Project Proposal](Project/Overview#project-proposal)**                           |
 | 7    | 02/16              | Holiday                                |                      |                         |                                                                            |
 |      | 02/18              | Scientific Publishing in CS/HCI        |                      | ERP: Ch 8               |                                                                            |
 |      | 02/20              | Participatory Action Research          |                      |                         |**[Final Project Lit Review](Project/F2-Lit-Review)**                       |
 | 8    | 02/23              | Computer Supported Collaborative Work  |                      |                         |                                                                            |
-|      | 02/25              | Computational Social Science           |                      |                         |                                                                            |
+|      | 02/25              | Accessibility                          |                      |                         |                                                                            |
 |      | 02/27              | Exam Review                            |                      |                         |                                                                            |
 | 9    | 03/02              | ***MIDTERM EXAM 2***                   |                      |                         |                                                                            |
 |      | 03/04              | Accessibility                          |                      |                         |**[Final Project Draft Review](Project/F3-Draft-Review)**                   |

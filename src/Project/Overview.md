@@ -25,6 +25,31 @@ A very good project will be a publishable or nearly-publishable contribution. Be
 
 Your first deliverable will be to submit to gradescope your team and topic selection. You can submit one document and add on each member of your team as a group submission. In this document you should indicate your desired project type (e.g. system building or ethnographic study, etc...), the general topic area of interest (i.e. what kind of users and problems you will be looking at) as well as a first attempt at setting out the basic scope of your project. All of these things can be changed later as you work toward the formal project proposal, but starting now I can give you early feedback on your ideas to make sure they are both sufficiently novel and achievable.  
 
+## Project Proposal
+
+Once you have determined you general topic for your project, you will create and submit a more developed proposal. You will submit to gradescope a document in the standard [ACM SIGCONF format](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty). Your proposal should be a maximum of three pages, excluding references (It can be shorter, there is no need to pad! Just make sure it addresses everything in the assignment).
+
+Getting support for proposed projects is an essential component of doing research in any setting. A good heuristic for a proposal it it's ability to answer the [_Heilmeier Catechism_](https://en.wikipedia.org/wiki/George_H._Heilmeier). This consists of 8 questions every proposal should be able to answer, 7 of which are relevant to your project. They are:
+
+- What are you trying to do? Articulate your objectives using absolutely no jargon.
+- How is it done today, and what are the limits of current practice?
+- What's new in your approach and why do you think it will be successful?
+- Who cares? If you're successful, what difference will it make?
+- What are the risks and the payoffs?
+- How long will it take?
+- What are the midterm and final "exams" to check for success?
+
+In your proposal you should explicitly answer each of these questions, with reference to the existing literature when relevant. In particular be sure to specifically state your plans both for development and evaluation and what kinds of empirical methodology you intend to utilize, including determination of the relevant independent and dependent variables (if using an experimental approach), or the relevant descriptive model being utilized or extended (if using a more observational approach). Finally you should include a brief team coordination plan: What is your team's meeting plan? When and where will you be meeting each other? Who is taking leadership of what? Who will do what if things run behind or someone gets sick, and do team members have other major deadlines this quarter that need to be accounted for? Has everyone agreed that this is a fair division of contributions?
+
+Your proposal will be graded based on whether it sufficiently answers the required questions, and presents an idea that is well motivated, well scoped, and well articulated.
+
+<!-- ## Literature Review
+
+## Draft Review
+
+## Final Paper
+
+## Final Presentation -->
 <!-- 
 ## Project Abstract
 
