@@ -33,21 +33,21 @@ Acronyms for book chapters:
 |      | 01/23              | Modeling Interaction                   | DN: 4, 5             | ERP:   7                |                                                                            |
 | 4    | 01/26              | Affective Computing                    |                      | ID: 5,6                 |                                                                            |
 |      | 01/28              | Ubiquitous Computing                   |                      |                         |                                                                            |
-|      | 01/30              | Exam Review                            | DN: 6, 7             |                         |**[Final Project Team and Topic Selection](Project/Overview)**     |
+|      | 01/30              | Exam Review                            | DN: 6, 7             |                         |**[Final Project Team and Topic Selection](Project/Overview)**              |
 | 5    | 02/02              | ***MIDTERM EXAM 1***                   |                      |                         |                                                                            |
 |      | 02/04              | Research Methods and Ethics            |                      | ERP: 4                  |                                                                            |
 |      | 02/06              | Designing Experiments                  |                      | ERP: 5                  |**[A2: Mini-Design: Auditory User Interface](Assignments/A2-Mini-Design)**  |
 | 6    | 02/05              | Statistical Analysis                   |                      | ERP: 6                  |                                                                            |
 |      | 02/07              | Qualitative Methods Overview           |                      |                         |                                                                            |
-|      | 02/09              | Coding and Qualitative Analysis        |                      |                         |**[Final Project Proposal](Project/Overview#project-proposal)**                           |
+|      | 02/09              | Coding and Qualitative Analysis        |                      |                         |**[Final Project Proposal](Project/Overview#project-proposal)**             |
 | 7    | 02/16              | Holiday                                |                      |                         |                                                                            |
 |      | 02/18              | Scientific Publishing in CS/HCI        |                      | ERP: Ch 8               |                                                                            |
 |      | 02/20              | Participatory Action Research          |                      |                         |**[Final Project Lit Review](Project/F2-Lit-Review)**                       |
-| 8    | 02/23              | Computer Supported Collaborative Work  |                      |                         |                                                                            |
+| 8    | 02/23              | CSCW and Computational Social Science  |                      |                         |                                                                            |
 |      | 02/25              | Accessibility                          |                      |                         |                                                                            |
 |      | 02/27              | Exam Review                            |                      |                         |                                                                            |
 | 9    | 03/02              | ***MIDTERM EXAM 2***                   |                      |                         |                                                                            |
-|      | 03/04              | Accessibility                          |                      |                         |**[Final Project Draft Review](Project/F3-Draft-Review)**                   |
+|      | 03/04              | Human-Robot Interaction                |                      |                         |**[Final Project Draft Review](Project/F3-Draft-Review)**                   |
 |      | 03/06              | Human-AI Interaction                   |                      |                         |                                                                            |
 | 10   | 03/09              | Special Topics (Research Papers)       |                      |                         |                                                                            |
 |      | 03/11              | Special Topics (Research Papers)       |                      |                         |                                                                            |
