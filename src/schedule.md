@@ -35,7 +35,7 @@ Acronyms for book chapters:
 |      | 01/28              | Ubiquitous Computing                   |                      |                         |                                                                            |
 |      | 01/30              | Exam Review                            | DN: 6, 7             |                         |**[Final Project Team and Topic Selection](Project/Overview)**              |
 | 5    | 02/02              | ***MIDTERM EXAM 1***                   |                      |                         |                                                                            |
-|      | 02/04              | Research Methods and Ethics            |                      | ERP: 4                  |                                                                            |
+|      | 02/04              | Research Ethics                        |                      | ERP: 5                  |                                                                            |
 |      | 02/06              | Designing Experiments                  |                      | ERP: 5                  |**[A2: Mini-Design: Auditory User Interface](Assignments/A2-Mini-Design)**  |
 | 6    | 02/05              | Statistical Analysis                   |                      | ERP: 6                  |                                                                            |
 |      | 02/07              | Qualitative Methods Overview           |                      |                         |                                                                            |
