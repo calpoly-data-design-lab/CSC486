@@ -43,7 +43,7 @@ Acronyms for book chapters:
 | 7    | 02/16              | Holiday                                |                      |                         |                                                                            |
 |      | 02/18              | Scientific Publishing in CS/HCI        |                      | ERP: Ch 8               |                                                                            |
 |      | 02/20              | Participatory Action Research          |                      |                         |                                                                            |
-| 8    | 02/23              | CSCW and Computational Social Science  |                      |                         |**[Final Project Lit Review](Project/F2-Lit-Review)**                       |
+| 8    | 02/23              | CSCW and Computational Social Science  |                      |                         |**[Final Project Lit Review](Project/Overview#literature-review)**                       |
 |      | 02/25              | Accessibility                          |                      |                         |                                                                            |
 |      | 02/27              | Exam Review                            |                      |                         |                                                                            |
 | 9    | 03/02              | ***MIDTERM EXAM 2***                   |                      |                         |                                                                            |

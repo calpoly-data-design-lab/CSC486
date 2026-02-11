@@ -43,6 +43,23 @@ In your proposal you should explicitly answer each of these questions, with refe
 
 Your proposal will be graded based on whether it sufficiently answers the required questions, and presents an idea that is well motivated, well scoped, and well articulated.
 
+## Literature Review
+
+After finalizing your general project plan. The next step in a successful project is a literature review to see how other people have addressed similar problems. Using the same template from your proposal, add a section titled **Background and Related Work**. In this section you will cover 4-5 pieces of published research from peer reviewed venues such as CHI. Remember that arxiv preprints are not peer-reviewed research (although many peer-reviewed papers are also stored on arxiv), nor are blog posts, news articles, or the outputs of large language models. You can peruse the proceedings of CHI directly if you want, or use tools like Google Scholar to find papers of interest, or look at the references sections of other papers that you find or are cited in class or in the textbooks.
+
+For each of the selected papers, _summarize their key findings, describe their methodology, and describe their relationship to your project_. Papers may be related in a number of different ways such as
+
+- Having a similar area of focus or application domain
+- Having a similar methodology either in their experimental or observational procedure or their analysis
+- Providing a conceptual model that you are making use of or extending
+- Proffering a hypothesis that relates to your project, where your experiment might strengthen or falsify some aspect of it
+- Introducing a tool or technology that you are using in your project or comparing your project to in some way
+
+Your review will be graded based on:
+
+1. Sufficient inclusion of relevant peer-reviewed literature.
+2. Thorough summarization and description of the papers showing understanding of their relevance and findings.
+3. Clearly articulated analysis of connection of the papers to your project.
 <!-- ## Literature Review
 
 ## Draft Review
