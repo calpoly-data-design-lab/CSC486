@@ -38,7 +38,7 @@ Acronyms for book chapters:
 |      | 02/04              | Research Ethics                        |                      | ERP: 5                  |                                                                            |
 |      | 02/06              | Designing Experiments                  |                      | ERP: 5                  |**[A2: Mini-Design: Auditory User Interface](Assignments/A2-Mini-Design)**  |
 | 6    | 02/09              | Statistical Analysis                   |                      | ERP: 6                  |                                                                            |
-|      | 02/11              | Qualitative Methods Overview           |                      |                         |                                                                            |
+|      | 02/11              | Qualitative Methods Overview           |                      | ID: 8                   |                                                                            |
 |      | 02/13              | Coding and Qualitative Analysis        |                      |                         |**[Final Project Proposal](Project/Overview#project-proposal)**             |
 | 7    | 02/16              | Holiday                                |                      |                         |                                                                            |
 |      | 02/18              | Scientific Publishing in CS/HCI        |                      | ERP: Ch 8               |                                                                            |
